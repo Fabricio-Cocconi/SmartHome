@@ -1,4 +1,4 @@
-# 🏠 SmartHome Solutions – Proyecto Integrador
+# 🏠 SmartHome Solutions – Proyecto Integrador Grupo Nº 18
 
 Este proyecto forma parte del Módulo Programador 2025 y propone el desarrollo de una solución orientada a objetos para gestionar dispositivos inteligentes en el hogar. La aplicación permite registrar usuarios, controlar dispositivos (como luces, cámaras y electrodomésticos) y automatizar funciones del hogar mediante una interfaz modular, ética y segura.
 
